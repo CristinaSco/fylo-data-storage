@@ -150,4 +150,7 @@ input[type="range"]::-webkit-slider-thumb {
   .arrow-down{
     display: none;
   }
+  
+  .right{text-align: center;}
+
 }
